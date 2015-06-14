@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="scala-fun">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/demo-store.zip!/" />
+      <root url="jar://$PROJECT_DIR$/activator-launch-1.2.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
