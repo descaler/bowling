@@ -18,7 +18,7 @@ case class BonusFrame(b1:Int, b2:Option[Int]) extends BowlingFrame
 
 object BowlingScorer {
   def scoreGame(game: String): Int = {
-    score(parse(game));
+    score(parse(game))
   }
 
   def parse(game:String): List[BowlingFrame] = {
